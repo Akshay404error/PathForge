@@ -1,7 +1,6 @@
 # 🛤️ PathForge
 
 > **AI-powered conversational learning roadmap platform**
-> *Built for Scaler School of Business ProdX Hackathon — Education Domain*
 
 PathForge turns vague learning goals into structured AI-generated roadmaps with milestones, curated resources, capstone projects, and streak-based progress tracking. Mentors and institutions get a dashboard to track learners. Everything runs on **local Ollama** — your data never leaves your machine.
 
